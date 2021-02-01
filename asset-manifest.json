@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactjs_Mytodo/static/css/main.3811f16c.chunk.css",
+    "main.js": "/reactjs_Mytodo/static/js/main.9c17c45a.chunk.js",
+    "main.js.map": "/reactjs_Mytodo/static/js/main.9c17c45a.chunk.js.map",
+    "runtime-main.js": "/reactjs_Mytodo/static/js/runtime-main.406ed9e6.js",
+    "runtime-main.js.map": "/reactjs_Mytodo/static/js/runtime-main.406ed9e6.js.map",
+    "static/js/2.04f74f7f.chunk.js": "/reactjs_Mytodo/static/js/2.04f74f7f.chunk.js",
+    "static/js/2.04f74f7f.chunk.js.map": "/reactjs_Mytodo/static/js/2.04f74f7f.chunk.js.map",
+    "static/js/3.6b615a52.chunk.js": "/reactjs_Mytodo/static/js/3.6b615a52.chunk.js",
+    "static/js/3.6b615a52.chunk.js.map": "/reactjs_Mytodo/static/js/3.6b615a52.chunk.js.map",
+    "index.html": "/reactjs_Mytodo/index.html",
+    "static/css/main.3811f16c.chunk.css.map": "/reactjs_Mytodo/static/css/main.3811f16c.chunk.css.map",
+    "static/js/2.04f74f7f.chunk.js.LICENSE.txt": "/reactjs_Mytodo/static/js/2.04f74f7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.406ed9e6.js",
+    "static/js/2.04f74f7f.chunk.js",
+    "static/css/main.3811f16c.chunk.css",
+    "static/js/main.9c17c45a.chunk.js"
+  ]
+}
